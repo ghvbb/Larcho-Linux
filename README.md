@@ -4,7 +4,6 @@
 
 # ── What’s new in v3.0 ──────────────────────────────
 # Waybar  : reborn – cleaner, smarter, zero-clutter
-# Wofi    : new lock – swipe, type, done
 # ISO     : full image – dd it, boot it, love it
 # Hyprland: simplified – tiling that just *flows*
 # YouTube : priority support – comment → fix
